@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PeiOrange888.github.io/</id>
     <title>拂晓</title>
-    <updated>2021-06-01T10:59:47.393Z</updated>
+    <updated>2021-06-04T02:00:49.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://PeiOrange888.github.io/"/>
     <link rel="self" href="https://PeiOrange888.github.io/atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://PeiOrange888.github.io/images/avatar.png</logo>
     <icon>https://PeiOrange888.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 拂晓</rights>
+    <entry>
+        <title type="html"><![CDATA[六月四日]]></title>
+        <id>https://PeiOrange888.github.io/liu-yue-si-ri/</id>
+        <link href="https://PeiOrange888.github.io/liu-yue-si-ri/">
+        </link>
+        <updated>2021-06-04T01:58:58.000Z</updated>
+        <content type="html"><![CDATA[<p>不忘初心<br>
+方得始终<br>
+苦尽甘来<br>
+是非皆往</p>
+]]></content>
+    </entry>
 </feed>
